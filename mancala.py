@@ -1,6 +1,3 @@
-import json
-
-
 class InvalidMove(RuntimeError):
   pass
 
